@@ -112,3 +112,4 @@ npm run build
 
 - **Redis Connection Error**: Ensure Redis daemon is running locally (`redis-server`) or via Docker (`docker run -p 6379:6379 redis:7`).
 - **PostgreSQL Database does not exist**: Create the database using `psql -U postgres -c "CREATE DATABASE enterprise_lms;"`.
+
